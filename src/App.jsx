@@ -8,7 +8,15 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <div className="bg-red-500">Hello</div>
+=======
+        <div className='bg-red-500'>srgkmhdxrgbsdgbxxbgfdfx
+        <div className='h-9 w-9 bg-blue-300 border border-black'>kem cho?
+
+        </div>
+        </div>
+>>>>>>> production
     </>
   );
 }
